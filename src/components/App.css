@@ -1,0 +1,38 @@
+body{
+    background: url('https://wallpaperaccess.com/full/755703.jpg');
+}
+
+
+.Links{
+    color: pink;
+    text-align: center;
+    font-size: larger;
+}
+
+.nav-link {
+    color: blue;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .nav-link:hover {
+    color: red;
+    text-decoration: underline;
+  }
+
+  
+.view-links {
+    color: darkred;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.view-links:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.Title {
+    color: hotpink;
+    font-size: 50px;
+}
