@@ -10,7 +10,7 @@ import './App.css'
 function App() {
   return (
   <BrowserRouter>
-    <div className="Links">
+    <div className="Link">
       <NavBar />
       <Switch>
         <Route exact path="/">
